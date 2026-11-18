@@ -1,4 +1,4 @@
-# Hi there, I'm Gay 👋
+# Hi there, I'm Anirudh 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anirudhthakur639-rgb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
